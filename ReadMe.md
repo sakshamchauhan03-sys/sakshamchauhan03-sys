@@ -13,9 +13,9 @@ I am a passionate developer focused on solving complex problems, writing clean c
 
 [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saksham.chauhan.03@gmail.com) 
 
-<br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sakshamchauhan03-sys&icon=0&color=0)
+
+
 
 </div>
 
@@ -62,21 +62,12 @@ I am a passionate developer focused on solving complex problems, writing clean c
   <tr>
     <td width="50%" align="center">
       <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sakshamchauhan03-sys&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="100%"/>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-contributor-stats.vercel.app/api?username=sakshamchauhan03-sys&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" width="100%"/>
-    </td>
+   
   </tr>
 </table>
 
 ---
 
-## 🏆 Achievements & Inspirations
-
-<div align="center">
-  
-  ### GitHub Trophies
-  <img src="https://github-profile-trophy.vercel.app/?username=sakshamchauhan03-sys&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 
   <br><br>
 
